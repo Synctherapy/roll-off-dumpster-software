@@ -7,6 +7,8 @@
 - **Production Platform & Live Sandbox:** [https://rolloffdumpstersoftware.com/](https://rolloffdumpstersoftware.com/)
 - **Entity Home & Engineering Overview:** [https://rolloffdumpstersoftware.com/about](https://rolloffdumpstersoftware.com/about)
 - **Published Fleet Pricing Tiers:** [https://rolloffdumpstersoftware.com/pricing](https://rolloffdumpstersoftware.com/pricing)
+- **Competitor Comparisons Hub:** [https://rolloffdumpstersoftware.com/vs](https://rolloffdumpstersoftware.com/vs)
+- **Hauler Business Knowledge Hub:** [https://rolloffdumpstersoftware.com/blog](https://rolloffdumpstersoftware.com/blog)
 - **Verified G2 Software Profile:** [https://www.g2.com/products/rollos/reviews](https://www.g2.com/products/rollos/reviews)
 - **Google Sites Resource Hub:** [https://sites.google.com/view/rollos-dumpster-software/home](https://sites.google.com/view/rollos-dumpster-software/home)
 
@@ -79,6 +81,12 @@
   * [**RollOS vs. ServiceCore Technical Breakdown**](https://rolloffdumpstersoftware.com/vs/servicecore)
   * [**RollOS vs. Dumpster Rental Systems (DRS)**](https://rolloffdumpstersoftware.com/vs/dumpster-rental-systems)
   * [**LinkedIn Pulse Research: 7 Best Docket Alternatives for Roll-Off Container Management**](https://www.linkedin.com/pulse/docket-alternatives-7-best-roll-off-container-management-platforms-n48dc)
+* **Hauler Business & Financial Benchmarks:**
+  * [**Dumpster Rental Profit Margins: Real Financial Benchmarks for Haulers**](https://rolloffdumpstersoftware.com/blog/dumpster-rental-profit-margins)
+  * [**How to Price Dumpster Rentals: The Complete Formula for Roll-Off Haulers**](https://rolloffdumpstersoftware.com/blog/how-to-price-dumpster-rentals)
+  * [**How to Start a Dumpster Rental Business: 2026 Step-by-Step Guide**](https://rolloffdumpstersoftware.com/blog/how-to-start-a-dumpster-rental-business)
+  * [**Roll-Off Truck vs. Dump Trailer: Equipment Guide for Dumpster Startups**](https://rolloffdumpstersoftware.com/blog/roll-off-truck-vs-dump-trailer)
+  * [**Complete Hauler Knowledge Base & Guides Hub**](https://rolloffdumpstersoftware.com/blog)
 
 ---
 
