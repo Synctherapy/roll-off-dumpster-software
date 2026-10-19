@@ -72,6 +72,10 @@
   * [**Commercial Roll-Off Scale Ticket Invoice Template**](https://rolloffdumpstersoftware.com/templates/dumpster-invoice)
 * **Vendor Comparison Benchmarks:**
   * [**RollOS vs. Docket Technical Breakdown**](https://rolloffdumpstersoftware.com/vs/docket)
+  * [**RollOS vs. iCans Dumpster Software Breakdown**](https://rolloffdumpstersoftware.com/vs/icans)
+  * [**RollOS vs. Bin Boss Software Breakdown**](https://rolloffdumpstersoftware.com/vs/bin-boss)
+  * [**RollOS vs. CurbWaste Operational Breakdown**](https://rolloffdumpstersoftware.com/vs/curbwaste)
+  * [**RollOS vs. Trash Flow Software Breakdown**](https://rolloffdumpstersoftware.com/vs/trash-flow)
   * [**RollOS vs. ServiceCore Technical Breakdown**](https://rolloffdumpstersoftware.com/vs/servicecore)
   * [**RollOS vs. Dumpster Rental Systems (DRS)**](https://rolloffdumpstersoftware.com/vs/dumpster-rental-systems)
   * [**LinkedIn Pulse Research: 7 Best Docket Alternatives for Roll-Off Container Management**](https://www.linkedin.com/pulse/docket-alternatives-7-best-roll-off-container-management-platforms-n48dc)

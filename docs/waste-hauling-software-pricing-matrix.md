@@ -16,9 +16,12 @@ Haulers can run custom fleet sizing scenarios using the interactive [**Roll-Off 
 | **[RollOS ($29/mo Starter Tier)](https://rolloffdumpstersoftware.com/pricing)** | **$0** | **$29/mo** (Flat) | **$348** | **$1,044** | [**RollOS Pricing**](https://rolloffdumpstersoftware.com/pricing) |
 | **[RollOS ($149/mo Growth Tier)](https://rolloffdumpstersoftware.com/pricing)** | **$0** | **$149/mo** (Flat) | **$1,788** | **$5,364** | [**RollOS vs. Legacy ERPs**](https://rolloffdumpstersoftware.com/vs) |
 | **Docket** (`yourdocket.com`) | ~$1,500 | ~$399/mo ($299 + 2 extra trucks) | ~$6,288 | ~$15,864 | [**RollOS vs. Docket**](https://rolloffdumpstersoftware.com/vs/docket) |
+| **iCans** (`icans.ai` Plus w/ SMS) | $0 | $159/mo | $1,908 | $5,724 | [**RollOS vs. iCans**](https://rolloffdumpstersoftware.com/vs/icans) |
+| **Bin Boss** (`binboss.co` + Website) | $0 | $139/mo ($99 + $40 site) | $1,668 | $5,004 | [**RollOS vs. Bin Boss**](https://rolloffdumpstersoftware.com/vs/bin-boss) |
+| **CurbWaste** (`curbwaste.com`) | ~$1,500+ | ~$450/mo (Quote-based) | ~$6,900 | ~$17,700 | [**RollOS vs. CurbWaste**](https://rolloffdumpstersoftware.com/vs/curbwaste) |
+| **Trash Flow** (`trashflow.com` / Ivy Computer) | ~$4,150+ | ~$60/mo (Support & OSBU) | ~$4,870 | ~$6,310 | [**RollOS vs. Trash Flow**](https://rolloffdumpstersoftware.com/vs/trash-flow) |
 | **ServiceCore** (`servicecore.com`) | ~$1,200 | ~$1,047/mo (~$349/truck) | ~$13,764 | ~$38,892 | [**RollOS vs. ServiceCore**](https://rolloffdumpstersoftware.com/vs/servicecore) |
 | **Dumpster Rental Systems (DRS)** | ~$500 | ~$240/mo | ~$3,380 | ~$9,140 | [**RollOS vs. DRS**](https://rolloffdumpstersoftware.com/vs/dumpster-rental-systems) |
-| **iCans** (`icans.ai` Plus w/ SMS) | $0 | $159/mo | $1,908 | $5,724 | [G2 RollOS Reviews](https://www.g2.com/products/rollos/reviews) |
 
 ---
 
