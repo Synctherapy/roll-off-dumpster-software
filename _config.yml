@@ -1,0 +1,6 @@
+title: "RollOS Dumpster Rental Software — 2026 Roll-Off Dispatch & Booking Documentation"
+description: "Cloud-based roll-off dumpster rental, 24/7 online booking, visual dispatch, and automated tonnage billing software for 1 to 25+ truck waste haulers."
+url: "https://synctherapy.github.io"
+baseurl: "/roll-off-dumpster-software"
+markdown: kramdown
+theme: minima
